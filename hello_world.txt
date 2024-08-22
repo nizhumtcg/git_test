@@ -1,3 +1,2 @@
 Hi wassup.
-This is for gitcommit.
-This is for checking.
+Deleted the previous texts.
